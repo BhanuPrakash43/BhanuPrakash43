@@ -85,5 +85,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-<p align="center">Thanks for Visiting!</p>
+<p align="center">Thank you for Visiting!</p>
 </p>
