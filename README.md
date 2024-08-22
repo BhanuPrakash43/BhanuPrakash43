@@ -9,6 +9,8 @@
 </p>
 </div>
 
+<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" height="350px" width="400px" alt="SubhadeepZilong" /></p>
+
 <!-- Contact Tag -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px"> Connect with me
@@ -48,8 +50,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 &nbsp;
-
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" height="250px" width="300px" alt="SubhadeepZilong" /></p>
 
 ## :anchor: Personal Projects
 
