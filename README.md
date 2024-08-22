@@ -8,8 +8,6 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2350CA10&size=25&center=true&vCenter=true&width=850&height=30&lines=A+dedicated+programmer.;An+enthusiastic+frontend+developer.;An+enthusiastic+backend+developer.;Passionate+about+learning+new+skills.;A+quick+learner+and+problem+solver."/>
 </p>
 </div>
-  
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 <!-- Contact Tag -->
 
@@ -50,6 +48,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 &nbsp;
+
+<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 ## :anchor: Personal Projects
 
