@@ -23,10 +23,10 @@
 <a href="https://leetcode.com/u/BhanuPrakash777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/leet-code.svg" height="30" width="40" /></a>&nbsp;
 <a href="https://www.hackerrank.com/profile/BhanuPrakash77" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/hackerrank.svg" height="30" width="40" /></a>&nbsp;
 <a href="https://www.geeksforgeeks.org/user/bhanu72los/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>&nbsp;
-&nbsp;
-&nbsp;
-          
+&nbsp;        
 </p>
+
+<br>
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px"  width = 32px> &nbsp; TechStacks, I'm familiar with!
 
