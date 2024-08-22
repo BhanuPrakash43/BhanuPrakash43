@@ -27,8 +27,6 @@
           
 </p>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mohit-varma" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/bhanuprakash001/">Bhanu Prakash</a></div>
-
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px"  width = 32px> &nbsp; TechStacks, I'm familiar with!
 
 <div align="center">
