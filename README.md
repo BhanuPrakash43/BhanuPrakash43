@@ -16,7 +16,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px"> Connect with me
 
 <p align="center">
-<a href="https://x.com/BhanuPr078" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bhanuprakash001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" hakraborty-b341a8191" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bhanuprakashh__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" height="30" width="40" /></a>&nbsp;
 <a href="mailto:bhanu742630@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30" /></a>&nbsp;
